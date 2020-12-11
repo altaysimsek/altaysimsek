@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Altay Simsek</h1>  
-<h3 align="center">A passionate frontend developer from Turkey</h3>  
+<h3 align="center">A passionate frontend developer and Computer Science Student at Pamukkale University</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altaysimsek&label=Profile%20views&color=00ad0c&style=flat" alt="altaysimsek" /> <a href='https://findmentor.network/peer/altay-simsek'>  <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">  <a/></p>  
 
