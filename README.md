@@ -8,6 +8,8 @@
 <p>🌱I’m currently learning Node.js, React.js, Next.js.</p>
 <p>I love with working with JavaScript, React.js and Vue.js also you can see what languages i select on my projects right below. If you want to contribute any project of mine and you can't reach any instruction, directly contribute we don't have no limitations for that 😁</p>
 
+## 📃 Latest Blog Posts
+- [ESLint: Nedir ve Nasıl Kullanılır ?](https://altaysimsek16.medium.com/eslint-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-c46d727036c5)
 
 ## 🤗 You can reach out
 
