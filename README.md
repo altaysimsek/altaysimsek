@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altaysimsek&label=Profile%20views&color=00ad0c&style=flat" alt="altaysimsek" /> <a href='https://findmentor.network/peer/altay-simsek'>  <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">  <a/></p>  
 
-<p>Hello ,welcome to my GitHub profile. I'm 20 years old computer science student at Pamukkale University and want to be frontend developer. </p>
+<p>Hello ,welcome to my GitHub profile. I'm 22 years old computer science student at Pamukkale University and want to be frontend developer. </p>
  
 <p>🌱I’m currently learning Node.js, React.js, Next.js.</p>
 <p>I love with working with JavaScript, React.js and Vue.js also you can see what languages i select on my projects right below. If you want to contribute any project of mine and you can't reach any instruction, directly contribute we don't have no limitations for that 😁</p>
